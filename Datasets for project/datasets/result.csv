@@ -1,0 +1,131 @@
+userID,parking_lot,price,rating,food_rating,service_rating,Predicted_Margin,y/n,Food_Type
+U1001,public,medium,1,2,2,1,y,Non Veg
+U1002,none,low,2,2,1,1,y,Veg
+U1003,none,medium,2,1,2,1,y,Non Veg
+U1004,none,low,1,1,2,1,y,Mexican
+U1004,none,medium,1,1,2,1,y,Veg
+U1004,none,high,0,2,0,0.6,y,Non Veg
+U1004,none,low,1,1,1,1,y,Veg
+U1004,yes,high,0,2,0,0.6,y,Non Veg
+U1004,'valet parking',low,1,1,1,1,y,Mexican
+U1004,'valet parking',medium,2,2,1,1,y,Veg
+U1004,public,medium,0,1,1,1,y,Non Veg
+U1004,none,low,1,2,2,1,y,Non Veg
+U1005,'valet parking',high,1,2,1,1,y,Veg
+U1006,'valet parking',high,0,2,0,0.6,y,Chinese
+U1007,yes,medium,1,1,0,-1,n,Non Veg
+U1008,public,low,1,2,1,1,y,Non Veg
+U1008,yes,medium,1,1,2,1,y,Veg
+U1008,none,low,1,2,0,0.6,y,Chinese
+U1008,fee,low,2,2,2,1,y,Mexican
+U1008,public,low,1,2,2,1,y,Non Veg
+U1008,yes,medium,1,2,0,0.6,y,Chinese
+U1008,public,high,1,2,2,1,y,Veg
+U1008,yes,high,2,2,2,1,y,Non Veg
+U1008,public,low,2,2,1,1,y,Non Veg
+U1008,yes,low,2,2,2,1,y,Non Veg
+U1009,none,medium,2,2,2,1,y,Veg
+U1009,none,medium,2,2,2,1,y,Non Veg
+U1009,none,low,1,2,1,1,y,Chinese
+U1009,none,high,2,2,1,1,y,Veg
+U1009,yes,low,1,1,1,1,y,Non Veg
+U1009,yes,high,1,1,0,-1,n,Mexican
+U1009,yes,high,0,0,2,-1,n,Non Veg
+U1010,yes,high,1,1,1,1,y,Chinese
+U1011,public,high,0,2,0,0.6,y,Chinese
+U1012,yes,medium,1,1,1,1,y,Non Veg
+U1013,none,medium,0,1,0,-1,n,Chinese
+U1014,yes,medium,2,0,0,-1,n,Chinese
+U1014,yes,high,0,1,0,-1,n,Chinese
+U1015,yes,high,0,0,0,-1,n,Non Veg
+U1016,yes,medium,2,0,0,-1,n,Non Veg
+U1016,none,medium,0,2,0,0.6,y,Non Veg
+U1016,yes,low,1,0,0,-1,n,Chinese
+U1016,none,medium,0,0,1,-1,n,Chinese
+U1016,yes,low,2,2,2,1,y,Non Veg
+U1016,none,medium,2,2,2,1,y,Veg
+U1016,yes,medium,2,1,2,1,y,Veg
+U1016,yes,low,1,2,1,1,y,Non Veg
+U1016,none,medium,1,2,1,1,y,Mexican
+U1016,yes,medium,1,2,1,1,y,Non Veg
+U1016,public,medium,1,2,1,1,y,Non Veg
+U1016,yes,high,2,2,2,1,y,Veg
+U1016,none,medium,1,2,0,0.6,y,Veg
+U1016,yes,high,1,2,1,1,y,Non Veg
+U1017,yes,medium,1,1,1,1,y,Non Veg
+U1018,yes,medium,1,2,1,1,y,Veg
+U1019,none,high,1,1,1,1,y,Veg
+U1020,none,low,2,2,1,1,y,Non Veg
+U1021,yes,high,2,2,2,1,y,Non Veg
+U1021,none,medium,2,2,2,1,y,Non Veg
+U1021,yes,high,2,2,1,1,y,Veg
+U1021,yes,medium,0,0,0,-1,n,Non Veg
+U1022,yes,medium,2,2,2,1,y,Non Veg
+U1023,yes,medium,1,1,1,1,y,Mexican
+U1024,none,low,2,2,1,1,y,Non Veg
+U1025,none,low,2,2,2,1,y,Veg
+U1026,none,high,1,2,1,1,y,Non Veg
+U1027,none,medium,2,2,1,1,y,Non Veg
+U1028,yes,medium,1,1,1,1,y,Chinese
+U1029,yes,low,1,2,1,1,y,Non Veg
+U1030,none,high,2,1,2,1,y,Veg
+U1031,yes,low,1,1,0,-1,n,Non Veg
+U1032,yes,medium,2,2,2,1,y,Non Veg
+U1033,yes,medium,1,2,1,1,y,Veg
+U1034,none,low,1,1,1,1,y,Non Veg
+U1035,none,high,1,1,2,1,y,Non Veg
+U1036,public,low,2,2,2,1,y,Non Veg
+U1037,yes,low,2,2,2,1,y,Non Veg
+U1038,none,medium,2,2,2,1,y,Veg
+U1039,none,high,2,2,2,1,y,Non Veg
+U1040,none,medium,2,2,2,1,y,Non Veg
+U1041,none,low,2,2,1,1,y,Non Veg
+U1042,none,low,2,2,2,1,y,Veg
+U1043,none,high,2,2,2,1,y,Non Veg
+U1044,yes,medium,2,2,1,1,y,Chinese
+U1045,none,medium,2,2,2,1,y,Chinese
+U1045,none,low,2,2,2,1,y,Non Veg
+U1045,public,low,2,2,2,1,y,Veg
+U1045,yes,low,1,0,1,-1,n,Chinese
+U1046,none,low,2,2,2,1,y,Non Veg
+U1047,yes,medium,0,0,0,-1,n,Chinese
+U1048,none,medium,1,1,0,-1,n,Non Veg
+U1049,none,medium,0,0,2,-1,n,Mexican
+U1050,none,low,1,2,2,1,y,Non Veg
+U1051,none,low,1,0,1,-1,n,Veg
+U1052,none,medium,0,2,0,0.6,y,Veg
+U1053,none,medium,1,2,2,1,y,Veg
+U1054,none,low,1,1,1,1,y,Veg
+U1055,none,medium,2,2,2,1,y,Chinese
+U1056,none,medium,2,1,1,1,y,Non Veg
+U1057,yes,low,2,0,2,-1,n,Non Veg
+U1058,none,medium,2,2,2,1,y,Veg
+U1059,yes,medium,1,1,1,1,y,Mexican
+U1060,none,medium,2,1,0,1,y,Non Veg
+U1060,none,low,2,1,1,1,y,Veg
+U1060,yes,medium,0,0,1,-1,n,Chinese
+U1060,none,high,1,2,1,1,y,Non Veg
+U1060,yes,low,2,1,0,1,y,Non Veg
+U1060,none,low,2,1,1,1,y,Chinese
+U1060,none,medium,1,2,2,1,y,Non Veg
+U1060,yes,low,2,1,1,1,y,Veg
+U1060,none,low,2,2,2,1,y,Non Veg
+U1060,yes,low,2,2,2,1,y,Non Veg
+U1060,none,high,2,2,1,1,y,Chinese
+U1060,none,medium,1,1,1,1,y,Non Veg
+U1060,none,medium,2,2,2,1,y,Veg
+U1061,yes,low,1,1,0,-1,n,Non Veg
+U1062,yes,medium,1,0,1,-1,n,Non Veg
+U1063,yes,medium,2,2,2,1,y,Chinese
+U1064,yes,medium,2,2,2,1,y,Non Veg
+U1065,'valet parking',medium,1,1,1,1,y,Non Veg
+U1066,none,medium,1,2,1,1,y,Chinese
+U1067,yes,medium,1,2,0,0.6,y,Non Veg
+U1068,yes,low,1,2,0,0.6,y,Veg
+U1069,yes,medium,1,2,2,1,y,Non Veg
+U1070,yes,low,2,1,2,1,y,Non Veg
+U1071,none,medium,0,1,0,-1,n,Veg
+U1072,none,medium,1,1,1,1,y,Non Veg
+U1073,none,medium,0,2,0,0.6,y,Mexican
+U1074,none,low,1,0,2,-1,n,Non Veg
+U1075,yes,low,2,2,2,1,y,Veg

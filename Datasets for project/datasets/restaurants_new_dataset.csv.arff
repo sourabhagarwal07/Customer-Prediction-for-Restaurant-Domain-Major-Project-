@@ -1,0 +1,141 @@
+@relation restaurants_new_dataset-weka.filters.unsupervised.attribute.Remove-R1
+
+@attribute parking_lot {public,none,yes,'valet parking',fee}
+@attribute price {medium,low,high}
+@attribute rating numeric
+@attribute food_rating numeric
+@attribute service_rating numeric
+@attribute y/n {_}
+@attribute Food_Type {'Non Veg',Veg,Mexican,Chinese}
+
+@data
+public,medium,1,2,2,_,'Non Veg'
+none,low,2,2,1,_,Veg
+none,medium,2,1,2,_,'Non Veg'
+none,low,1,1,2,_,Mexican
+none,medium,1,1,2,_,Veg
+none,high,0,2,0,_,'Non Veg'
+none,low,1,1,1,_,Veg
+yes,high,0,2,0,_,'Non Veg'
+'valet parking',low,1,1,1,_,Mexican
+'valet parking',medium,2,2,1,_,Veg
+public,medium,0,1,1,_,'Non Veg'
+none,low,1,2,2,_,'Non Veg'
+'valet parking',high,1,2,1,_,Veg
+'valet parking',high,0,2,0,_,Chinese
+yes,medium,1,1,0,_,'Non Veg'
+public,low,1,2,1,_,'Non Veg'
+yes,medium,1,1,2,_,Veg
+none,low,1,2,0,_,Chinese
+fee,low,2,2,2,_,Mexican
+public,low,1,2,2,_,'Non Veg'
+yes,medium,1,2,0,_,Chinese
+public,high,1,2,2,_,Veg
+yes,high,2,2,2,_,'Non Veg'
+public,low,2,2,1,_,'Non Veg'
+yes,low,2,2,2,_,'Non Veg'
+none,medium,2,2,2,_,Veg
+none,medium,2,2,2,_,'Non Veg'
+none,low,1,2,1,_,Chinese
+none,high,2,2,1,_,Veg
+yes,low,1,1,1,_,'Non Veg'
+yes,high,1,1,0,_,Mexican
+yes,high,0,0,2,_,'Non Veg'
+yes,high,1,1,1,_,Chinese
+public,high,0,2,0,_,Chinese
+yes,medium,1,1,1,_,'Non Veg'
+none,medium,0,1,0,_,Chinese
+yes,medium,2,0,0,_,Chinese
+yes,high,0,1,0,_,Chinese
+yes,high,0,0,0,_,'Non Veg'
+yes,medium,2,0,0,_,'Non Veg'
+none,medium,0,2,0,_,'Non Veg'
+yes,low,1,0,0,_,Chinese
+none,medium,0,0,1,_,Chinese
+yes,low,2,2,2,_,'Non Veg'
+none,medium,2,2,2,_,Veg
+yes,medium,2,1,2,_,Veg
+yes,low,1,2,1,_,'Non Veg'
+none,medium,1,2,1,_,Mexican
+yes,medium,1,2,1,_,'Non Veg'
+public,medium,1,2,1,_,'Non Veg'
+yes,high,2,2,2,_,Veg
+none,medium,1,2,0,_,Veg
+yes,high,1,2,1,_,'Non Veg'
+yes,medium,1,1,1,_,'Non Veg'
+yes,medium,1,2,1,_,Veg
+none,high,1,1,1,_,Veg
+none,low,2,2,1,_,'Non Veg'
+yes,high,2,2,2,_,'Non Veg'
+none,medium,2,2,2,_,'Non Veg'
+yes,high,2,2,1,_,Veg
+yes,medium,0,0,0,_,'Non Veg'
+yes,medium,2,2,2,_,'Non Veg'
+yes,medium,1,1,1,_,Mexican
+none,low,2,2,1,_,'Non Veg'
+none,low,2,2,2,_,Veg
+none,high,1,2,1,_,'Non Veg'
+none,medium,2,2,1,_,'Non Veg'
+yes,medium,1,1,1,_,Chinese
+yes,low,1,2,1,_,'Non Veg'
+none,high,2,1,2,_,Veg
+yes,low,1,1,0,_,'Non Veg'
+yes,medium,2,2,2,_,'Non Veg'
+yes,medium,1,2,1,_,Veg
+none,low,1,1,1,_,'Non Veg'
+none,high,1,1,2,_,'Non Veg'
+public,low,2,2,2,_,'Non Veg'
+yes,low,2,2,2,_,'Non Veg'
+none,medium,2,2,2,_,Veg
+none,high,2,2,2,_,'Non Veg'
+none,medium,2,2,2,_,'Non Veg'
+none,low,2,2,1,_,'Non Veg'
+none,low,2,2,2,_,Veg
+none,high,2,2,2,_,'Non Veg'
+yes,medium,2,2,1,_,Chinese
+none,medium,2,2,2,_,Chinese
+none,low,2,2,2,_,'Non Veg'
+public,low,2,2,2,_,Veg
+yes,low,1,0,1,_,Chinese
+none,low,2,2,2,_,'Non Veg'
+yes,medium,0,0,0,_,Chinese
+none,medium,1,1,0,_,'Non Veg'
+none,medium,0,0,2,_,Mexican
+none,low,1,2,2,_,'Non Veg'
+none,low,1,0,1,_,Veg
+none,medium,0,2,0,_,Veg
+none,medium,1,2,2,_,Veg
+none,low,1,1,1,_,Veg
+none,medium,2,2,2,_,Chinese
+none,medium,2,1,1,_,'Non Veg'
+yes,low,2,0,2,_,'Non Veg'
+none,medium,2,2,2,_,Veg
+yes,medium,1,1,1,_,Mexican
+none,medium,2,1,0,_,'Non Veg'
+none,low,2,1,1,_,Veg
+yes,medium,0,0,1,_,Chinese
+none,high,1,2,1,_,'Non Veg'
+yes,low,2,1,0,_,'Non Veg'
+none,low,2,1,1,_,Chinese
+none,medium,1,2,2,_,'Non Veg'
+yes,low,2,1,1,_,Veg
+none,low,2,2,2,_,'Non Veg'
+yes,low,2,2,2,_,'Non Veg'
+none,high,2,2,1,_,Chinese
+none,medium,1,1,1,_,'Non Veg'
+none,medium,2,2,2,_,Veg
+yes,low,1,1,0,_,'Non Veg'
+yes,medium,1,0,1,_,'Non Veg'
+yes,medium,2,2,2,_,Chinese
+yes,medium,2,2,2,_,'Non Veg'
+'valet parking',medium,1,1,1,_,'Non Veg'
+none,medium,1,2,1,_,Chinese
+yes,medium,1,2,0,_,'Non Veg'
+yes,low,1,2,0,_,Veg
+yes,medium,1,2,2,_,'Non Veg'
+yes,low,2,1,2,_,'Non Veg'
+none,medium,0,1,0,_,Veg
+none,medium,1,1,1,_,'Non Veg'
+none,medium,0,2,0,_,Mexican
+none,low,1,0,2,_,'Non Veg'
+yes,low,2,2,2,_,Veg

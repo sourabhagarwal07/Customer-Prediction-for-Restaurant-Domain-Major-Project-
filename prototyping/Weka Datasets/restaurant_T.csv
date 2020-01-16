@@ -1,0 +1,131 @@
+placeID,Rpayment,Rcuisine,hours,days,parking_lot,name,address,city,state,country,alcohol,smoking_area,dress_code,accessibility,price,area,rating,food_rating,service_rating,Class
+135110,cash,Spanish,00:00-23:30;,Mon;Tue;Wed;Thu;Fri;,public,Kiku Cuernavaca,Revolucion,Cuernavaca,Morelos,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,2,2,?
+135110,VISA,Italian,00:00-23:30;,Sat;,none,puesto de tacos,esquina santos degollado y leon guzman,s.l.p.,s.l.p.,mexico,No_Alcohol_Served,none,informal,completely,low,open,2,2,1,?
+135110,MasterCard-Eurocard,Latin_American,00:00-23:30;,Sun;,none,El Rincón de San Francisco,Universidad 169,San Luis Potosi,San Luis Potosi,Mexico,Wine-Beer,only at bar,informal,partially,medium,open,2,2,2,?
+135110,American_Express,Mexican,08:00-19:00;,Mon;Tue;Wed;Thu;Fri;,none,little pizza Emilio Portes Gil,calle emilio portes gil,victoria ,tamaulipas,?,No_Alcohol_Served,none,informal,completely,low,closed,1,2,2,?
+135110,bank_debit_cards,Fast_Food,00:00-00:00;,Sat;,none,carnitas_mata,lic. Emilio portes gil,victoria,Tamaulipas,Mexico,No_Alcohol_Served,permitted,informal,completely,medium,closed,1,1,2,?
+135109,cash,Mexican,00:00-00:00;,Sun;,none,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,high,closed,0,0,0,?
+135107,cash,Burgers,08:00-21:00;,Mon;Tue;Wed;Thu;Fri;,none,Taqueria EL amigo ,Calle Mezquite Fracc Framboyanes,Cd Victoria,Tamaulipas,Mexico,No_Alcohol_Served,none,casual,completely,low,open,1,1,1,?
+135107,VISA,Dessert-Ice_Cream,08:00-21:00;,Sat;,yes,shi ro ie,?,?,?,?,Wine-Beer,section,informal,no_accessibility,high,open,0,0,0,?
+135107,MasterCard-Eurocard,Fast_Food,08:00-21:00;,Sun;,valet parking,Pollo_Frito_Buenos_Aires,tampico,victoria,Tamaulipas,Mexico,No_Alcohol_Served,not permitted,informal,completely,low,closed,1,1,1,?
+135107,American_Express,Hot_Dogs,00:00-23:30;,Mon;Tue;Wed;Thu;Fri;,valet parking,la Estrella de Dimas,Villa de Pozos 192 Villa de Pozos,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,2,2,?
+135107,bank_debit_cards,Latin_American,00:00-23:30;,Sat;,public,Restaurante 75,Villa de Pozos 4497 Villa de Pozos,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,1,1,?
+135106,cash,Mexican,00:00-23:30;,Sun;,none,Abondance Restaurante Bar,Industrias 908 Valle Dorado,San Luis Potosi,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,low,closed,1,2,2,?
+135106,VISA,Steaks,07:00-23:30;,Mon;Tue;Wed;Thu;Fri;,valet parking,El angel Restaurante,Venustiano Carranza 1625 Jardin,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,high,closed,1,0,1,?
+135106,MasterCard-Eurocard,Mexican,07:00-23:30;,Sat;,valet parking,Restaurante Pueblo Bonito,Mexico 2015 Providencia,San Luis Potosi,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,high,closed,0,0,0,?
+135105,cash,Steaks,07:00-23:30;,Sun;,yes,Mcdonalds Parque Tangamanga,Lateral Salvador Nava Martinez 3145,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,closed,1,0,0,?
+135104,cash,Mexican,18:00-23:30;,Mon;Tue;Wed;Thu;Fri;,public,Tortas y hamburguesas el gordo,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,not permitted,informal,no_accessibility,low,closed,1,2,1,?
+135104,VISA,Steaks,18:00-23:30;,Sat;,yes,Sirlone,carr. mexico,San Luis Potosi,San Luis Potosi,Mexico,Wine-Beer,none,informal,completely,medium,closed,0,0,2,?
+135104,MasterCard-Eurocard,Asian,18:00-21:00;,Sun;,none,rockabilly ,agustin de iturbide,san luis potosi,san luis potosi,mexico,Full_Bar,section,informal,completely,low,closed,1,2,0,?
+135103,cash,Dessert-Ice_Cream,00:00-23:30;,Mon;Tue;Wed;Thu;Fri;,fee,Unicols Pizza,Plaza del Carmen,San Luis Potosi,San Luis Potosi,Mexico,Wine-Beer,none,informal,completely,low,closed,2,2,2,?
+135103,VISA,International,20:30-23:30;,Sat;,public,TACOS EL GUERO,?,victoria,tamaulipas,mexico,No_Alcohol_Served,none,informal,completely,low,closed,1,2,2,?
+135103,MasterCard-Eurocard,Mongolian,00:00-23:30;,Sun;,yes,Restaurant El Muladar de Calzada,De Guadalupe 460 San Miguelito,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,medium,closed,1,2,0,?
+135102,cash,Steaks,00:00-23:30;,Mon;Tue;Wed;Thu;Fri;,public,La Posada del Virrey,Av. V. Carranza,San Luis Potosi,San Luis Potosi,Mexico,Wine-Beer,none,casual,completely,high,closed,1,0,2,?
+135102,VISA,Vegetarian,00:00-23:30;,Sat;,yes,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,Mexico,Full_Bar,section,informal,no_accessibility,high,closed,2,2,2,?
+135102,MasterCard-Eurocard,Brazilian,00:00-23:30;,Sun;,public,KFC,?,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,not permitted,informal,completely,low,closed,2,2,1,?
+135102,bank_debit_cards,International,12:00-22:00;,Mon;Tue;Wed;Thu;Fri;,yes,Giovannis,40 Norte Civac 1RA. Seccion,Jiutepec,Morelos,Mexico,No_Alcohol_Served,none,informal,no_accessibility,low,closed,2,2,2,?
+135101,cash,Latin_American,12:00-23:00;,Sat;,none,Restaurant Oriental Express,Tangamanga 7 Tangamanga,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,2,2,?
+135100,cash,Steaks,12:00-22:00;,Sun;,none,Mariscos Tia Licha,avenida salvador montiel ,cuernavaca,morelos,mexico,No_Alcohol_Served,not permitted,casual,partially,medium,closed,2,2,2,?
+135099,cash,Cafe-Coffee_Shop,09:00-23:00;,Mon;Tue;Wed;Thu;Fri;,none,cafe ambar,?,?,?,?,No_Alcohol_Served,none,informal,completely,low,closed,1,2,1,?
+135099,VISA,Cafeteria,09:00-01:00;,Sat;,none,Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,Mexico,Wine-Beer,none,casual,no_accessibility,high,closed,2,2,1,?
+135099,MasterCard-Eurocard,Contemporary,09:00-22:00;,Sun;,yes,don burguers,r.b. anaya esq. florencia,slp,slp,mexico,No_Alcohol_Served,none,informal,no_accessibility,low,open,1,1,1,?
+135098,cash,Deli-Sandwiches,13:00-08:00;,Mon;Tue;Wed;Thu;Fri;,yes,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,high,closed,1,1,0,?
+135098,VISA,Diner,13:00-08:00;,Sat;,yes,Rincon del Bife,?,?,?,?,Full_Bar,section,informal,completely,high,closed,0,0,0,?
+135098,MasterCard-Eurocard,Mexican,13:00-08:00;,Sun;,yes,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,high,closed,0,0,0,?
+135098,bank_debit_cards,Mexican,14:00-23:30;,Mon;Tue;Wed;Thu;Fri;,public,Restaurante la Estrella de Dima,Soledad Sn Arboledas de Soledad,Soledad,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,high,closed,0,0,0,?
+135097,cash,Mexican,14:00-23:30;,Sat;,yes,El Rincon de San Francisco,1a. de Lozada 1,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,1,1,?
+135097,VISA,Cafeteria,14:00-23:30;,Sun;,none,Preambulo Wifi Zone Cafe,Anahuac 805,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,0,0,0,?
+135097,MasterCard-Eurocard,Mexican,13:00-23:00;,Mon;Tue;Wed;Thu;Fri;,yes,El Herradero Restaurante and Bar,Costado Sur Central Camionera Km 2,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,medium,closed,0,0,0,?
+135097,bank_debit_cards,Japanese,13:00-00:00;,Sat;,yes,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,high,closed,0,0,0,?
+135094,cash,Sushi,13:00-22:00;,Sun;,yes,Restaurant Teely,La Pradera,Cuernavaca,Morelos,Mexico,Wine-Beer,section,casual,no_accessibility,high,closed,0,0,0,?
+135093,cash,Mexican,13:00-23:30;,Mon;Tue;Wed;Thu;Fri;,yes,la parroquia,venustiano carranza,san luis potosi,san luis potosi,?,No_Alcohol_Served,not permitted,informal,partially,medium,closed,0,0,0,?
+135093,bank_debit_cards,Seafood,13:00-00:30;,Sat;,none,Luna Cafe,Francisco I. Madero 215,San Luis Potosi,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,medium,closed,0,0,0,?
+135092,cash,Cafeteria,13:00-01:00;,Sun;,yes,Hamburguesas La perica,cd. mier,victoria,Tamaulipas,Mexico,No_Alcohol_Served,permitted,informal,completely,low,open,0,0,0,?
+135091,cash,Burgers,10:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,Restaurante El Reyecito,Agricultura 595 del Valle,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,0,0,0,?
+135091,VISA,Fast_Food,10:00-23:30;,Sat;,yes,churchs,?,?,?,?,No_Alcohol_Served,none,informal,completely,low,closed,2,2,2,?
+135091,MasterCard-Eurocard,Fast_Food,11:00-23:30;,Sun;,none,Dominos Pizza,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,closed,2,2,2,?
+135090,cash,Chinese,11:00-23:30;,Mon;Tue;Wed;Thu;Fri;,yes,el pueblito,?,?,?,?,Wine-Beer,not permitted,informal,completely,medium,closed,2,1,2,?
+135089,cash,Seafood,11:00-23:30;,Sat;,yes,emilianos,venustiano carranza,san luis potos,mexico,?,Wine-Beer,none,informal,completely,low,closed,1,2,1,?
+135089,VISA,Contemporary,11:00-22:00;,Sun;,none,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,medium,closed,0,0,0,?
+135089,MasterCard-Eurocard,Bar,12:00-22:00;,Mon;Tue;Wed;Thu;Fri;,yes,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,Mexico,Wine-Beer,none,informal,completely,medium,closed,1,2,1,?
+135089,bank_debit_cards,Bar_Pub_Brewery,12:00-22:00;,Sat;,public,Restaurante Alhondiga,Alhondiga 62 Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,2,1,?
+135088,cash,Japanese,12:00-22:00;,Sun;,yes,los Toneles,Estatuto Juridico 1040 Burocratas,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,high,closed,2,2,2,?
+135086,cash,Bar,09:00-17:00;,Mon;Tue;Wed;Thu;Fri;,none,Restaurant los Pinos,Federal Mexico - Acapulco 10 3 de Mayo,Cuernavaca,Morelos,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,2,0,?
+135086,VISA,Bar_Pub_Brewery,09:00-13:00;,Sat;,yes,Restaurante Guerra,20 de Noviembre 1817 Tlaxcala,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,high,closed,1,2,1,?
+135086,MasterCard-Eurocard,Bar,00:00-23:30;,Sun;,yes,Michiko Restaurant Japones,Cordillera de Los Alpes 160 Lomas 2 Seccion,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,1,1,?
+135085,cash,Contemporary,11:00-21:00;,Mon;Tue;Wed;Thu;Fri;,yes,Restaurante Marisco Sam,Ignacio Allende 785 Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,2,1,?
+135084,cash,Seafood,11:00-21:00;,Sat;,none,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,high,closed,1,1,1,?
+135084,VISA,Bar,11:00-21:00;,Sun;,none,Potzocalli,Carretera Central Sn,San Luis Potosi,?,?,No_Alcohol_Served,none,informal,completely,low,closed,2,2,1,?
+135084,MasterCard-Eurocard,Pizzeria,07:00-00:00;,Mon;Tue;Wed;Thu;Fri;,yes,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,high,closed,2,2,2,?
+135082,cash,Bar,07:00-00:00;,Sat;,none,El Oceano Dorado,Libramiento Burgos Colonia Las Animas,Cuernavaca,Morelos,Mexico,Full_Bar,permitted,informal,completely,medium,open,2,2,2,?
+135081,cash,Bar,07:00-00:00;,Sun;,yes,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,high,closed,2,2,1,?
+135081,VISA,Mexican,13:00-20:00;,Mon;Tue;Wed;Thu;Fri;,yes,Restaurant la Chalita,Guajardo Sn San Luis Potosi Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,medium,closed,0,0,0,?
+135081,MasterCard-Eurocard,Seafood,13:00-20:00;,Sat;,yes,El Club,Mexico 810 Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,2,2,?
+135080,cash,Cafeteria,13:00-20:00;,Sun;,yes,Gordas de morales,?,?,San Luis Potosi,Mexico,Full_Bar,section,informal,completely,medium,closed,1,1,1,?
+135080,VISA,Fast_Food,09:00-16:00;,Mon;Tue;Wed;Thu;Fri;,none,Restaurante Versalles,Francisco I. Madero 145 Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,low,closed,2,2,1,?
+135080,MasterCard-Eurocard,Pizzeria,00:00-00:00;,Sat;,none,Subway,Rio Mayo 17 Vista Hermosa,Cuernavaca,Morelos,Mexico,No_Alcohol_Served,not permitted,informal,no_accessibility,low,closed,2,2,2,?
+135080,American_Express,Bar,00:00-00:00;,Sun;,none,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,Mexico,Full_Bar,none,informal,no_accessibility,high,closed,1,2,1,?
+135079,cash,Bar_Pub_Brewery,08:00-23:00;,Mon;Tue;Wed;Thu;Fri;,none,Cenaduria El RincÃ³n de Tlaquepaque,av. seminario,san luis potosi,san luis potosi,mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,2,1,?
+135079,American_Express,Seafood,08:00-23:00;,Sat;,yes,Los Vikingos,36 Sur Civac,Jiutepec,Morelos,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,1,1,?
+135078,cash,Bar,08:00-23:00;,Sun;,yes,Hamburguesas Valle Dorado,Av. Coral,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,none,informal,completely,low,closed,1,2,1,?
+135078,VISA,Fast_Food,00:00-00:00;,Mon;Tue;Wed;Thu;Fri;,none,la Cantina,Capitan Caldera No. 420 Tequisqueapan,San Luis Potosi,SLP,Mexico,Full_Bar,none,informal,no_accessibility,high,closed,2,1,2,?
+135078,MasterCard-Eurocard,Chinese,00:00-00:00;,Sat;,yes,dairy queen,?,?,?,?,No_Alcohol_Served,none,informal,completely,low,closed,1,1,0,?
+135077,cash,Fast_Food,00:00-00:00;,Sun;,yes,Arrachela Grill,69 Tres De Mayo,Cuernavaca,Morelos,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,2,2,?
+135076,cash,Pizzeria,11:00-23:00;,Mon;Tue;Wed;Thu;Fri;,yes,vips,?,?,?,?,Full_Bar,not permitted,informal,completely,medium,closed,1,2,1,?
+135076,VISA,Chinese,11:00-23:00;,Sat;,none,palomo tec,blvrd emilio portes gil,victoria,tamaulipas,?,No_Alcohol_Served,none,informal,completely,low,closed,1,1,1,?
+135076,MasterCard-Eurocard,Bar,11:00-23:00;,Sun;,none,Restaurante Casa de las Flores,General Mariano Arista 1205 Barrio de Tequisquiap,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,high,closed,1,1,2,?
+135076,American_Express,Cafeteria,10:00-18:00;,Mon;Tue;Wed;Thu;Fri;,public,VIPS,NICOLAS ZAPATA 300,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,not permitted,casual,completely,low,closed,2,2,2,?
+135075,cash,Seafood,10:00-18:00;,Sat;,yes,TACOS CORRECAMINOS,?,victoria,tamaulipas,mexico,No_Alcohol_Served,none,informal,completely,low,closed,2,2,2,?
+135074,cash,Mexican,10:00-18:00;,Sun;,none,Restaurant Wu Zhuo Yi,Himno Nacional 100 Avenida,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,2,2,?
+135074,VISA,Bar,14:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,El Mundo de la Pasta,Rio Papaloapan 265 Lomas de San Luis (3),San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,high,closed,2,2,2,?
+135074,MasterCard-Eurocard,Italian,14:00-23:30;,Sat;,none,Restaurante la Cantina,De La Estrella 2005 Estrella de Oriente,San Luis Potosi,SLP,Mexico,Full_Bar,section,informal,no_accessibility,medium,closed,2,2,2,?
+135073,cash,Japanese,14:00-23:30;,Sun;,none,Gorditas Doa Gloria,sevilla y olmedo 715 a,san luis potosi,san luis potosi,mexico,No_Alcohol_Served,not permitted,casual,no_accessibility,low,closed,2,2,1,?
+135073,VISA,Cafeteria,14:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,el lechon potosino ,circuito oriente esq. carretera 57,san luis potosi ,slp,mexico,No_Alcohol_Served,permitted,casual,no_accessibility,low,open,2,2,2,?
+135073,MasterCard-Eurocard,Contemporary,14:00-23:30;,Sat;,none,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,high,closed,2,2,2,?
+135072,cash,Seafood,14:00-23:30;,Sun;,yes,tortas hawai,?,?,?,?,No_Alcohol_Served,not permitted,informal,partially,medium,closed,2,2,1,?
+135072,VISA,Cafe-Coffee_Shop,13:00-22:30;,Mon;Tue;Wed;Thu;Fri;,none,Carls Jr,Av. V. Carranza,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,not permitted,informal,completely,medium,closed,2,2,2,?
+135072,MasterCard-Eurocard,Cafeteria,13:30-22:30;,Sat;,none,Hamburguesas saul,Av. Saan Luis enttre moctezuma y salinas,San Luis Potosi,San Luis Potosi,mexico,No_Alcohol_Served,none,informal,completely,low,closed,2,2,2,?
+135072,American_Express,Bar,13:30-22:30;,Sun;,public,Carreton de Flautas y Migadas,?,Ciudad Victoria,Tamaulipas,Mexico,No_Alcohol_Served,permitted,informal,completely,low,open,2,2,2,?
+135071,cash,Bar_Pub_Brewery,14:00-20:00;,Mon;Tue;Wed;Thu;Fri;,yes,Rincon Huasteco,?,?,?,?,No_Alcohol_Served,none,informal,completely,low,closed,1,0,1,?
+135071,VISA,Mexican,14:00-20:00;,Sat;,none,El cotorreo,Emiliano Zapata Col. Tres de Mayo,Cuernavaca,Morelos,?,Wine-Beer,permitted,informal,no_accessibility,low,open,2,2,2,?
+135071,MasterCard-Eurocard,Mexican,14:00-20:00;,Sun;,yes,Gorditas Dona Tota,Zaragoza entre Francisco Zarco y Lopez Velarde,Cd. Victoria,Tamaulipas,Mexico,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,closed,0,0,0,?
+135071,American_Express,Bar,06:00-18:00;,Mon;Tue;Wed;Thu;Fri;,none,Pizzeria Julios,?,s.l.p,mexico,?,No_Alcohol_Served,not permitted,informal,partially,medium,closed,1,1,0,?
+135070,cash,Bar_Pub_Brewery,00:00-00:00;,Sat;,none,Chilis Cuernavaca,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,Cuernavaca,Morelos,Mexico,Wine-Beer,none,informal,no_accessibility,medium,closed,0,0,0,?
+135069,cash,Mexican,00:00-23:30;,Sun;,none,Cafe Chaires,?,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,not permitted,informal,completely,low,closed,0,0,0,?
+135068,cash,Mexican,12:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,tacos los volcanes,avenida hivno nacional,san luis potosi,san luis potos,mexico,No_Alcohol_Served,none,informal,completely,low,closed,0,0,0,?
+135068,VISA,Fast_Food,12:00-23:30;,Sat;,none,Little Cesarz,?,Ciudad Victoria,Tamaulipas,Mexico,No_Alcohol_Served,not permitted,informal,completely,medium,closed,0,0,0,?
+135068,MasterCard-Eurocard,Bar,12:00-23:30;,Sun;,none,cafe punta del cielo,?,?,?,?,No_Alcohol_Served,permitted,formal,completely,medium,closed,1,2,2,?
+135067,cash,Mexican,00:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,tacos de la estacion,?,?,?,?,No_Alcohol_Served,none,informal,no_accessibility,low,open,1,1,1,?
+135067,VISA,Bar,00:00-23:30;,Sat;,none,Restaurant Orizatlan,Pascual M. Hernandez 240,San Luis Potosi,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,medium,closed,2,2,2,?
+135067,MasterCard-Eurocard,Mexican,00:00-23:30;,Sun;,none,Restaurant Familiar El Chino,Paseo de las Fuentes,Jiutepec,Morelos,?,Wine-Beer,permitted,casual,partially,medium,open,2,1,1,?
+135066,cash,Contemporary,07:00-23:30;,Mon;Tue;Wed;Thu;Fri;,yes,Restaurant de Mariscos de Picon,Miguel Barragan 46 Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,section,informal,no_accessibility,low,closed,2,0,2,?
+135066,VISA,Bar,07:00-23:30;,Sat;,none,Sanborns Casa Piedra,Lomas del Mirador,Cuernavaca,Morelos,Mexico,Wine-Beer,only at bar,informal,no_accessibility,medium,closed,2,2,2,?
+135066,MasterCard-Eurocard,Bar_Pub_Brewery,07:00-23:30;,Sun;,yes,La Estrella de Dimas,Av. de los Pintores,San Luis Potosi,S.L.P.,Mexico,No_Alcohol_Served,none,informal,partially,medium,closed,1,1,1,?
+135065,cash,Mexican,09:30-23:30;,Mon;Tue;Wed;Thu;Fri;,none,pizza clasica,524 Soledad de Graciano Sanchez,Soledad,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,2,1,0,?
+135065,VISA,Mexican,09:30-23:30;,Sat;,none,Carnitas Mata  Calle 16 de Septiembre,16 de Septiembre,victoria ,tamaulipas,?,No_Alcohol_Served,none,informal,completely,low,closed,2,1,1,?
+135065,MasterCard-Eurocard,Bar,00:00-00:00;,Sun;,yes,Restaurante de Mariscos la Langosta,Cordillera de Los Alpes 675 Loma Verde,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,0,0,1,?
+135065,American_Express,Bar_Pub_Brewery,13:00-23:00;,Mon;Tue;Wed;Thu;Fri;,none,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,high,closed,1,2,1,?
+135064,cash,Chinese,13:00-23:30;,Sat;,yes,puesto de gorditas,frente al tecnologico,victoria,tamaulipas,mexico,No_Alcohol_Served,permitted,informal,no_accessibility,low,open,2,1,0,?
+135064,VISA,Mexican,13:00-22:00;,Sun;,none,Log Yin,?,?,?,?,No_Alcohol_Served,none,informal,no_accessibility,low,closed,2,1,1,?
+135064,MasterCard-Eurocard,Japanese,13:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,2,2,?
+135063,cash,Bar,13:00-23:30;,Sat;,yes,carnitas mata calle Emilio Portes Gil,Emilio Portes Gil,victoria,tamaulipas,?,No_Alcohol_Served,none,informal,completely,low,closed,2,1,1,?
+135062,cash,Cafe-Coffee_Shop,13:00-20:00;,Sun;,none,crudalia,?,?,?,?,Wine-Beer,section,casual,completely,low,open,2,2,2,?
+135061,cash,Cafeteria,07:00-23:00;,Mon;Tue;Wed;Thu;Fri;,yes,tacos de barbacoa enfrente del Tec,?,?,?,?,No_Alcohol_Served,not permitted,informal,completely,low,open,2,2,2,?
+135061,VISA,Bar,07:00-23:00;,Sat;,none,Restaurant Las Mananitas,Ricardo Linares 107,Cuernavaca,Morelos,Mexico,Wine-Beer,none,formal,no_accessibility,high,closed,2,2,1,?
+135061,MasterCard-Eurocard,Bar_Pub_Brewery,07:00-23:00;,Sun;,none,Restaurante El Cielo Potosino,Julian de Los Reyes 400 Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,1,1,?
+135061,American_Express,Mexican,09:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,Mikasa,Himno nacional esq. Blvd. Juarez,Cuernavaca,Morelos,Mexico,Wine-Beer,none,informal,no_accessibility,medium,closed,2,2,2,?
+135060,cash,Mediterranean,09:00-23:30;,Sat;,yes,Cafeteria cenidet,Interior Internado Palmira SN,Cuernavaca,Morelos,Mexico,No_Alcohol_Served,not permitted,informal,no_accessibility,low,closed,1,1,0,?
+135059,cash,International,09:00-23:30;,Sun;,yes,Restaurante Tiberius,Munoz Sn Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,0,0,0,?
+135058,cash,Mexican,12:00-23:30;,Mon;Tue;Wed;Thu;Fri;,yes,Cabana Huasteca,Cuauhtemoc 455,San Luis Potosi,S.L.P.,Mexico,No_Alcohol_Served,none,informal,partially,medium,closed,2,2,2,?
+135058,VISA,Italian,12:00-23:30;,Sat;,yes,Gorditas Dona Tota,?,?,?,?,No_Alcohol_Served,not permitted,informal,completely,medium,closed,2,2,2,?
+135058,MasterCard-Eurocard,Bar,00:00-00:00;,Sun;,valet parking,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,San Luis Potosi,SLP,Mexico,Wine-Beer,section,informal,no_accessibility,medium,closed,1,1,1,?
+135057,cash,Bar_Pub_Brewery,12:00-23:00;,Mon;Tue;Wed;Thu;Fri;,none,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,Mexico,Wine-Beer,none,informal,no_accessibility,medium,closed,1,2,1,?
+135057,VISA,Bar,12:00-23:00;,Sat;,yes,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,closed,1,2,0,?
+135057,MasterCard-Eurocard,Bar_Pub_Brewery,12:00-23:00;,Sun;,yes,tacos abi,?,victoria,tamaulipas,mexico,No_Alcohol_Served,none,informal,completely,low,closed,0,0,0,?
+135057,American_Express,Italian,07:00-23:00;,Sat;,yes,la perica hamburguesa,?,victoria,tamaulipas,?,No_Alcohol_Served,none,informal,completely,medium,closed,1,2,2,?
+135056,cash,Seafood,07:00-23:00;,Mon;Tue;Wed;Thu;Fri;,yes,McDonalds Centro,Rayon sn col. Centro,Cuernavaca,Morelos,Mexico,No_Alcohol_Served,not permitted,informal,partially,low,closed,2,1,2,?
+135055,cash,Mexican,07:00-23:00;,Sun;,none,Chaires,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,Mexico,No_Alcohol_Served,not permitted,informal,completely,medium,closed,0,1,0,?
+135055,VISA,Mediterranean,14:00-23:30;,Mon;Tue;Wed;Thu;Fri;,none,Sushi Itto,Venustiano Carranza 1809 C Polanco,San Luis Potosi,SLP,Mexico,No_Alcohol_Served,none,informal,no_accessibility,medium,closed,1,1,1,?
+135055,MasterCard-Eurocard,Burgers,14:00-23:30;,Sat;,none,Paniroles,?,?,?,?,Wine-Beer,not permitted,informal,no_accessibility,medium,closed,0,2,0,?
+135055,American_Express,Mexican,14:00-18:00;,Sun;,none,Restaurant Bar Coty y Pablo,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,Jiutepec,Morelos,Mexico,No_Alcohol_Served,none,informal,completely,low,closed,0,0,0,?
+135054,cash,Cafe-Coffee_Shop,07:00-22:30;,Mon;Tue;Wed;Thu;Fri;,yes,sirloin stockade,?,?,?,?,No_Alcohol_Served,none,informal,completely,low,closed,2,2,2,?

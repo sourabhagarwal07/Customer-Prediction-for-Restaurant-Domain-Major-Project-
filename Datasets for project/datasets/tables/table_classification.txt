@@ -1,0 +1,11 @@
+1->userfeed- table which contains previous month user feedback and predicted value.
+
+2->usefeed1- table contains user feedback for current/running month with same parameters as userfeed table.
+
+3->reguser- table contains the user which are the members of the particular organization.
+
+4->oldhappyuser- table contains path for the coupons for the old users who are predicted to be 'y'.
+
+5->oldsaduser- table contains path for the coupons for the old users who are predicted to be 'n'.
+
+6->newuserpromo- table contains path for the coupons for the new user who will be the newest member of the organization.
